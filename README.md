@@ -5,7 +5,7 @@ How to create ts project from scratch ?
 >	npx tsc  --init    // create ts project from scratch
 >	npm install –-save-dev typescript     // all the ts libraries needs to be in dev
 >	npm install –-save-dev  @types/node   // installs all types 
->	npm install -g ts-node    // install it globally
+>	npm install –-save-dev ts-node        // install it globally
 
 create file index.ts  with console.log('Hello World!');
 In tsconfig.json
