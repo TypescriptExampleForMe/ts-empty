@@ -2,6 +2,7 @@
 Empty ts project
 
 How to create ts project from scratch ?
+>	npm init    // creates package.json
 >	npx tsc  --init    // create ts project from scratch
 >	npm install –-save-dev typescript     // all the ts libraries needs to be in dev
 >	npm install –-save-dev  @types/node   // installs all types 
